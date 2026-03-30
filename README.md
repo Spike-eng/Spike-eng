@@ -4,3 +4,5 @@
 ## 📊 GitHub Stats
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Spike-eng&show_icons=true&theme=radical&cache_seconds=1)
+
+![Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Spike-eng&theme=radical)
