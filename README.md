@@ -1,4 +1,4 @@
-## Assalamu aleikum //HI there im Muhammad al-Tair im software engineer
+## Assalamu aleikum //HI there im Muhammad Kerimov im software engineer
 
 ## 🚀 Tech Stack
 
